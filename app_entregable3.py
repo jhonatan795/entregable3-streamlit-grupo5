@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 st.title("📊 Animal_nutrition")
-st.caption("Grupo 5 | Animal Nutrition | Predicción de `sale_amount` con Regresión Lineal")
+st.caption("| Animal Nutrition | Predicción de `sale_amount` con Regresión Lineal")
 
 
 # ============================================================

@@ -24,12 +24,12 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 # ============================================================
 
 st.set_page_config(
-    page_title="Entregable 3 - Modelación de Ventas",
+    page_title="Animal_Nutrition",
     page_icon="📊",
     layout="wide"
 )
 
-st.title("📊 Entregable 3 - Modelación de Ventas")
+st.title("📊 Animal_nutrition")
 st.caption("Grupo 5 | Animal Nutrition | Predicción de `sale_amount` con Regresión Lineal")
 
 
